@@ -1,6 +1,7 @@
 "use client"
 import React, { useState } from 'react'
-import Header from './Header'
+import Header from '../layout/Header';
+ 
 
 const Shipping = () => {
   const primaryColor = 'rgb(217, 80, 96)';
